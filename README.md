@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Ishaan 👋
 
-<!--
-**ishaandhawan3/ishaandhawan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer building intelligent systems that actually ship.
 
-Here are some ideas to get you started:
+I build production-oriented AI systems across **Generative AI, LLM applications, RAG, AI agents, backend engineering, and AI voice infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on systems where AI meets real-world infrastructure — from document intelligence and LLM pipelines to **Asterisk + LiveKit voice systems connecting AI agents to the PSTN**.
+
+[🌐 Portfolio](https://ishaandhawan.netlify.app/) ·
+[💼 LinkedIn](https://linkedin.com/in/ishaanaadi2000) ·
+[📧 Email](mailto:ishaanaadi2000@gmail.com)
+
+---
+
+## 🚀 What I Build
+
+```text
+GenAI / LLMs
+      ↓
+RAG · AI Agents · LLM Applications
+      ↓
+FastAPI · Django · Python
+      ↓
+Databases · APIs · Cloud Infrastructure
+      ↓
+Production Systems
